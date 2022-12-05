@@ -14,6 +14,6 @@ I'm a 20 years old student currently studying in Poznań, Poland.
 
 📫 Reach me: krystian.pinczak2001@gmail.com 
 
-💬 Looking for interships / jobs: https://www.linkedin.com/in/krystianpinczak/
+💬 Looking for internships / jobs: https://www.linkedin.com/in/krystianpinczak/
 
 ⚡️ Fun fact: I'm a huge fan of learning foreign languages 
