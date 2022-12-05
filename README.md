@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**PKrystian/PKrystian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20 years old student currently studying in Poznań, Poland.
 
-Here are some ideas to get you started:
+#### BIO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 I'm currently studying at Collegium Da Vinci 
+
+⚙️ I know how to use: `.php`, `.js`, `.html`, `.css`, `.sql`, `.cpp` 
+
+🌱 I’m currently learning `.py`, `.c`, `.cs`, `.java` 
+
+🔭 Learning all about back-end languages 
+
+📫 Reach me: krystian.pinczak2001@gmail.com 
+
+💬 Looking for interships / jobs: https://www.linkedin.com/in/krystianpinczak/
+
+⚡️ Fun fact: I'm a huge fan of learning foreign languages 
