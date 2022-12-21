@@ -10,7 +10,7 @@ I'm a 20 years old student currently studying in Poznań, Poland.
 
 🌱 I’m currently learning `.py`, `.c`, `.cs`, `.java` 
 
-🔭 Learning all about back-end languages 
+🔭 Learning all about IT 
 
 📫 Reach me: krystian.pinczak2001@gmail.com 
 
