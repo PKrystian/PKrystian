@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 20 years old student currently studying in Poznań, Poland.
+I'm a 21 years old student currently studying in Poznań, Poland.
 
 #### BIO 
 
