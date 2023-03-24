@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I'm currently studying at Collegium Da Vinci<br>🤝 I'm looking to help with any project!<br>📫 Reach me here: krystian.pinczak2001@gmail.com<br>💬 Also here: https://www.linkedin.com/in/krystianpinczak/<br>🔭 Learning all about IT<br>🌱 I’m currently learning: `.php` and `MERN` Stack<br>⚡️ Fun fact: I'm a huge fan of learning foreign languages (currently japanese)
+🏢 I'm a 21 years old student currently studying in Poznań, Poland.<br>🤝 I'm looking to help with any project!<br>📫 Reach me here: krystian.pinczak2001@gmail.com<br>💬 Also here: https://www.linkedin.com/in/krystianpinczak/<br>🔭 Learning all about IT<br>🌱 I’m currently learning: `.php` and `MERN` Stack<br>⚡️ Fun fact: I'm a huge fan of learning foreign languages (currently japanese)
 
 # 💻 Tech Stack:
 ## My main day-to-day technologies:
