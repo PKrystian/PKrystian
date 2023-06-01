@@ -13,7 +13,7 @@
   
   🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf)<br>
   
-  🌱 I’m currently learning: .php and MERN Stack<br>
+  🌱 I’m currently learning: `.php` and `MERN` Stack<br>
   
   ⚡️ Fun fact: I'm a huge fan of learning foreign languages (currently japanese)</p>
 
