@@ -145,6 +145,14 @@
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKrystian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://visitcount.itsvg.in/api?id=PKrystian&icon=0&color=0)
