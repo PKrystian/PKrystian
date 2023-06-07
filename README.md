@@ -3,10 +3,9 @@
 ###
 
 <p align="left">
-  🏢 I'm a 21 years old student currently studying in Poznań, Poland.<br>
   
-  🤝 I'm looking to help with any project!<br>
-  
+  🏢 I'm a 21 years old student currently attending at [Collegium da Vinci](https://cdv.pl/en/)<br>
+
   📫 Reach me here: krystian.pinczak2001@gmail.com<br>
   
   💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/)<br>
@@ -14,6 +13,8 @@
   🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf)<br>
   
   🌱 I’m currently learning: `.php` and `MERN` Stack<br>
+    
+  🤝 I'm looking to help with any project!<br>
   
   ⚡️ Fun fact: I'm a huge fan of learning foreign languages (currently japanese)</p>
 
@@ -106,8 +107,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -145,6 +144,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
