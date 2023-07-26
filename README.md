@@ -1,7 +1,7 @@
 <h2 align="left">💫 About me:</h2> 
 
 ###
-
+ 
 <p align="left">
   
   🏢 I'm a 21 years old student currently attending at [Collegium da Vinci](https://cdv.pl/en/)<br>
