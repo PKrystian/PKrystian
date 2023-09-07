@@ -3,18 +3,16 @@
 ###
  
 <p align="left">
-  
-  🏢 I'm a 21 years old student currently attending at [Collegium da Vinci](https://cdv.pl/en/)<br>
 
-  📫 Reach me here: krystian.pinczak2001@gmail.com<br>
+  👋 Hi there! I'm Krystian, a 21-year-old student currently enrolled at [Collegium da Vinci](https://cdv.pl/en/). My passion lies in web and application development, data science, and utilizing various tools to bring innovative ideas to life.<br>
   
   💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/)<br>
   
   🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf)<br>
   
-  🌱 I’m currently learning: `.php` and `Yii2` Framework<br>
+  🌱 Currently, I'm expanding my skill set by diving deep into .php and Yii2 Framework, always eager to learn and grow.<br>
     
-  🤝 I'm looking to help with any project!<br>
+  🤝 I'm on the lookout for exciting projects to collaborate on, so if you have something interesting in mind, let's connect! You can reach me at krystian.pinczak2001@gmail.com.<br>
   
 ###
 
