@@ -6,9 +6,9 @@
 
   👋 Hi there! I'm Krystian, a 21-year-old student currently enrolled at [Collegium da Vinci](https://cdv.pl/en/). My passion lies in web and application development, data science, and utilizing various tools to bring innovative ideas to life.<br>
   
-  💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/)<br>
+  💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/).<br>
   
-  🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf)<br>
+  🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf).<br>
   
   🌱 Currently, I'm expanding my skill set by diving deep into .php and Yii2 Framework, always eager to learn and grow.<br>
     
