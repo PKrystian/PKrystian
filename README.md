@@ -1,7 +1,7 @@
-<h2 align="left">💫 About me:</h2> 
+<h2 align="left">💫 About me:</h2>
 
 ###
- 
+
 <p align="left">
 
   👋 Hi there! I'm Krystian, a 21-year-old student currently enrolled at [Collegium da Vinci](https://cdv.pl/en/). My passion lies in web and application development, data science, and utilizing various tools to bring innovative ideas to life.<br>
