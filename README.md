@@ -4,7 +4,7 @@
 
 <p align="left">
 
-  👋 Hi there! I'm Krystian, a Junior Backend Developer in Big Data. My passion lies in web and application development, data science, and utilizing various tools to bring innovative ideas to life.<br>
+  👋 Hi there! I'm Krystian, a Junior Backend Developer in Big Data. My passion lies in web and application development, data science, with utilizing various tools to bring innovative ideas to life.<br>
   
   🌱 Currently, I'm expanding my skill set by diving deep into `.php` and `Yii2` Framework, always eager to learn and grow.<br>
     
