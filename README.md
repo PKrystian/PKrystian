@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">
+<p align="left"> 
 
   👋 Hi there! I'm Krystian, a Junior Backend Developer in Big Data. My passion lies in web and application development, data science, with utilizing various tools to bring innovative ideas to life.<br>
   
