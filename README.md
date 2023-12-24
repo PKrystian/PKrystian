@@ -4,11 +4,11 @@
 
 <p align="left">
 
-  👋 Hi there! I'm Krystian, a Junior Backend Developer in Big Data. My passion lies in web and application development, utilizing various tools to bring innovative ideas to life.<br>
+  👋 Hi! I'm Krystian, a passionate Junior Backend Developer specializing in Big Data. I thrive on transforming imaginative concepts into reality through web and application development.<br>
+
+  🌱 Currently, I'm on an enriching journey, delving deeper into `Kotlin`, `Flask`, and `React` to fuel my hunger for continuous learning and innovation.<br>
   
-  🌱 Currently, I'm expanding my skill set by diving deep into `kotlin`, `Flask` and `React`, always eager to learn and grow.<br>
-    
-  🤝 I'm on the lookout for exciting projects to collaborate on, so if you have something interesting in mind, let's connect! You can reach me at krystian.pinczak2001@gmail.com.<br>
+  🤝 I'm actively seeking captivating projects to collaborate on. If you have an intriguing venture in mind, let's connect! You can reach out to me at krystian.pinczak2001@gmail.com.<br>
  
   💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/).<br>
   
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -146,10 +150,4 @@
   <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio 
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> 
 </div>
