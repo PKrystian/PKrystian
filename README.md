@@ -4,16 +4,14 @@
 
 <p align="left">
 
-  👋 Hi! I'm Krystian, a passionate Junior Backend Developer specializing in Big Data. I thrive on transforming imaginative concepts into reality through web and application development.<br>
+  👋 Hi! I'm Krystian, a passionate Full Stack Developer. I thrive on transforming imaginative concepts into reality through web and application development.<br>
 
-  🌱 Currently, I'm on an enriching journey, delving deeper into `Kotlin`, `Flask`, and `React` to fuel my hunger for continuous learning and innovation.<br>
+  🌱 Currently, I'm on an enriching journey, delving deeper into `React` and `Django`, while working on project: [talis.live](https://talis.live/) to fuel my hunger for continuous learning and innovation.<br>
   
   🤝 I'm actively seeking captivating projects to collaborate on. If you have an intriguing venture in mind, let's connect! You can reach out to me at krystian.pinczak2001@gmail.com.<br>
  
   💬 My Linkedin: [Click here](https://www.linkedin.com/in/krystianpinczak/).<br>
-  
-  🔭 You can view my resume: [Click here](https://github.com/PKrystian/PKrystian/blob/senior/GithubResume.pdf).<br>
-  
+
 ###
 
 <h2 align="left">💻 My main day-to-day technologies:</h2>
@@ -145,8 +143,6 @@
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
 </div>
 
 ###
