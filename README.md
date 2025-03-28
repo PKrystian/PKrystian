@@ -39,3 +39,7 @@ Full Stack Developer with expertise in building scalable web applications, backe
 - Jira
 - Confluence
 - Figma
+
+## My GitHub Stats
+
+![PKrystian's Stats](https://github-readme-stats.vercel.app/api?username=PKrystian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
