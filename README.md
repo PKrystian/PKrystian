@@ -17,49 +17,47 @@ Skilled in developing and maintaining robust software solutions for diverse busi
 
 ## Technologies & Tools
 
-### Programming Languages
+### Languages
 
-- Python  
-- JavaScript  
-- PHP  
+- Python
+- PHP
+- JavaScript
+- TypeScript
+- Kotlin
 
-### Backend Development
+### Frontend
+
+- ReactJS  
+- React Native  
+- Tailwind CSS  
+
+### Backend
 
 - Django  
-- Yii  
+- FastAPI  
+- Yii2  
+
+### Databases
+
 - PostgreSQL  
-- Neo4j  
-- DigitalOcean  
+- Neo4j 
+- MongoDB  
 
-### Frontend Development
-
-- React  
-- TailwindCSS  
-- Bootstrap  
-- Sass  
-- Less  
-- CSS3  
-- HTML5  
-
-### DevOps & Tools
+### Tools
 
 - Git  
-- GitHub Actions  
-- Linux  
-- Jenkins  
-
-### Project Management & Collaboration
-
-- Jira  
-- Confluence  
-- Figma  
+- Docker  
+- GitHub Actions
+- Jenkins
+- DigitalOcean
+- Atlassian Jira
 
 ### Familiar With
 
-- Kotlin  
-- C#  
-- Flask  
-- MongoDB  
+- C++
+- C# / Unity
+- Flask
+- Pentaho DI
 
 ---
 
