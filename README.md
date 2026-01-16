@@ -1,21 +1,16 @@
-# Full Stack Developer | Software Engineer
+# About Me
 
-Developer with expertise in building scalable web applications, backend systems and data driven solutions.  
-Focused on performance optimization, system architecture and automation.  
-Skilled in developing and maintaining robust software solutions for diverse business needs.
+I'm a Full Stack Developer and Software Engineer with a strong interest in building well-structured, reliable applications. I enjoy working across both backend and frontend, turning ideas into complete, functional products.
 
----
+My technical journey has been shaped by working on data-driven systems, backend logic and modern web interfaces. I focus on writing clean, maintainable code and designing solutions that scale well and remain easy to evolve over time.
 
-## Social Media
+My background in computer science helped me build a solid foundation in programming, system design and problem solving. Through academic and personal projects, I developed a strong understanding of how real-world applications are planned, built and maintained.
 
-- 📧 Email: [krystian.pinczak.work@gmail.com](mailto:krystian.pinczak.work@gmail.com)  
-- 🌐 Website: [www.krystianpinczak.com](http://www.krystianpinczak.com)  
-- 🔗 LinkedIn: [linkedin.com/in/krystianpinczak](https://www.linkedin.com/in/krystianpinczak/)  
-- ▶️ YouTube: [youtube.com/@KrystianDev](https://www.youtube.com/@KrystianDev)
+Outside of focused development work, I enjoy experimenting with new technologies, improving existing projects and learning how different systems work under the hood. I'm naturally curious and enjoy creating things that are both useful and well thought out.
 
 ---
 
-## Technologies & Tools
+## Skills
 
 ### Languages
 
@@ -58,6 +53,15 @@ Skilled in developing and maintaining robust software solutions for diverse busi
 - C# / Unity
 - Flask
 - Pentaho DI
+
+---
+
+## Social Media
+
+- 📧 Email: [krystian.pinczak.work@gmail.com](mailto:krystian.pinczak.work@gmail.com)  
+- 🌐 Website: [www.krystianpinczak.com](http://www.krystianpinczak.com)  
+- 🔗 LinkedIn: [linkedin.com/in/krystianpinczak](https://www.linkedin.com/in/krystianpinczak/)  
+- ▶️ YouTube: [youtube.com/@KrystianDev](https://www.youtube.com/@KrystianDev)
 
 ---
 
