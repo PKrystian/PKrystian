@@ -36,7 +36,8 @@ Outside of focused development work, I enjoy experimenting with new technologies
 
 - PostgreSQL  
 - Neo4j 
-- MongoDB  
+- MongoDB
+- Elasticsearch  
 
 ### Tools
 
