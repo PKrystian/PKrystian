@@ -55,6 +55,12 @@ Outside of focused development work, I enjoy experimenting with new technologies
 - Flask
 - Pentaho DI
 
+### Currently learning
+
+- Kubernetes
+- Prometheus
+- Grafana
+
 ---
 
 ## Social Media
