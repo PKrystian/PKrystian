@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Full Stack Developer and Software Engineer with a strong interest in building well-structured, reliable applications. I enjoy working across both backend and frontend, turning ideas into complete, functional products.
+I'm a Full-Stack Software Engineer with a strong interest in building well-structured, reliable applications. I enjoy working across both backend and frontend, turning ideas into complete, functional products.
 
 My technical journey has been shaped by working on data-driven systems, backend logic and modern web interfaces. I focus on writing clean, maintainable code and designing solutions that scale well and remain easy to evolve over time.
 
