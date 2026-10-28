@@ -30,7 +30,8 @@ Outside of focused development work, I enjoy experimenting with new technologies
 
 - Django  
 - FastAPI  
-- Yii2  
+- Yii2
+- Symfony  
 
 ### Databases
 
