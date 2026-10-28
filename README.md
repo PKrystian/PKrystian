@@ -69,7 +69,6 @@ Outside of focused development work, I enjoy experimenting with new technologies
 - 📧 Email: [krystian.pinczak.work@gmail.com](mailto:krystian.pinczak.work@gmail.com)  
 - 🌐 Website: [www.krystianpinczak.com](http://www.krystianpinczak.com)  
 - 🔗 LinkedIn: [linkedin.com/in/krystianpinczak](https://www.linkedin.com/in/krystianpinczak/)  
-- ▶️ YouTube: [youtube.com/@KrystianDev](https://www.youtube.com/@KrystianDev)
 
 ---
 
